@@ -3,7 +3,7 @@
 
 ## Live Project
 You can view the live project here:  
-[https://KAYALVIZHI-V.github.io/emart-grocery-shop/](https://KAYALVIZHI-V.github.io/emart-grocery-shop/)
+https://emart-grocery-shop.vercel.app
 
 ---
 
@@ -24,8 +24,4 @@ Users can browse products, view details, and navigate through categories.
 
 ---
 
-## How to Run Locally
 
-1. **Clone the repository**
-```bash
-git clone https://github.com/KAYALVIZHI-V/emart-grocery-shop.git
